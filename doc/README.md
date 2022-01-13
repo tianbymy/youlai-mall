@@ -1,3 +1,18 @@
-✨✨✨✨
+## 🎨 前言
 
-配置文件或者SQL因为更新比较频繁，如果是凌晨几点更新的，可能出错的概率会比较大，如有影响项目启动的配置错误，拜托及时告知（微信号：haoxianrui），先感谢为敬意！
+
+有来WIKI 基于 [docsify](https://docsify.js.org/#/zh-cn/quickstart) 构建的静态页文档。
+
+配置参考 docsify 官网: https://docsify.js.org/#/zh-cn/quickstart
+
+启动命令: 
+
+``` 
+# 切换根目录
+cd doc
+
+# 启动
+docsify serve wiki
+```
+
+本地访问: http://localhost:3000
